@@ -1,23 +1,29 @@
-👋 Hi, I’m Keval Gothi
+# 👋 Hi, I'm Keval Gothi
 
-I’m an MCA student with a strong interest in software engineering and applied computer science.  
-I enjoy building things close to the metal — code that actually *works*, scales, and makes sense.
+**Full-Stack Developer (MERN)** from Gujarat, India · 🌐 **[kevuu.me](https://kevuu.me)**
 
-💻 What I work with  
-- JavaScript, Python, Java, C/C++  
-- Web development (frontend + backend fundamentals)  
-- Databases, APIs, and system-level concepts  
-- Currently exploring app development, algorithms, and AI/ML foundations
+I build and ship full-stack web apps, and I've spent the last year fixing, hardening and extending production code that real customers rely on. I like code that actually *works*, scales, and makes sense.
 
-📚 What I’m learning now  
-- Data Structures & Algorithms (for real, not just LeetCode theatrics)  
-- Software engineering principles and system design  
-- Mobile and cloud-based application development
+### 💼 Experience
+- **Developer @ TripIn Studio** (Sep 2026 – now): bug fixes and new features on an ERP app, including cleaning up an AI-generated codebase
+- **Full-Stack Developer @ MobileSentrix** (Feb – Aug 2026): Magento e-commerce at scale; migrated Google Shopping sync to Merchant API v1, fixed an object-injection vulnerability and broken ACL checks
+- **Full-Stack Web Developer Intern @ Taniya Webfix** (May – Oct 2024): PHP/MySQL web apps and an admin panel
 
-🤝 Open to  
-- Collaborating on meaningful open-source projects  
-- Learning-focused teams and serious side projects  
-- Discussions that go deeper than “which framework is trending”
+### 🚀 Things I've built
+- **Amdavad Live**: live AMTS, BRTS and Metro tracker for Ahmedabad (Node.js, PWA, Azure)
+- **[BlogPlus](https://github.com/kevalGothi/BlogPlus)**: MERN blog platform with JWT auth · [live](https://blogplus-by-keval.vercel.app)
+- **[Second Brain](https://github.com/kevalGothi/secondbrAIn)**: AI-powered personal knowledge app (MCA project)
+- **[Communigate](https://github.com/kevalGothi/Communigate)**: society-management system with role-based admin
 
-📫 Reach me  
-- GitHub: @kevalGothi  
+More, with live previews, at **[kevuu.me](https://kevuu.me)**.
+
+### 🛠️ Tech
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express` `MongoDB` `MySQL` `PHP` `Magento` `Tailwind CSS` `Git` `Vercel` `Azure`
+
+### 🎓 Education
+MCA, Government MCA College, Ahmedabad · BCA, Saurashtra University (First Class with Distinction)
+
+### 📫 Reach me
+🌐 [kevuu.me](https://kevuu.me) · 💼 [LinkedIn](https://www.linkedin.com/in/kevalgothi) · ✉️ keval2141patel@gmail.com
+
+Open to full-time MERN / full-stack roles in Ahmedabad.
